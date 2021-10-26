@@ -18,7 +18,7 @@ pip install scipy tensorboard kornia==0.4.1 sklearn
 
 ## Checkpoints
 
-We provide ImageNet100-pretrained models in `checkpoints/`.
+We provide ImageNet100-pretrained models in [this Dropbox link](https://www.dropbox.com/sh/0hjts19ysxebmaa/AABB6bF3QQWdIOCh9vocwTGGa?dl=0).
 
 ## Pretraining
 
